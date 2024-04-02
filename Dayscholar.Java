@@ -1,4 +1,4 @@
-package com.tnsifDAY4;
+package corejava;
 
 
 
